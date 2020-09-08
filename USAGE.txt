@@ -72,4 +72,4 @@ Anything else is taken as the name of a Cython source file and compiled
 to a C source file. Multiple Cython source files can be specified
 (unless -o is used), in which case each source file is treated as the
 source of a distinct extension module and compiled separately to
-produce its own C file.
+produce its own C file
